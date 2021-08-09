@@ -1,0 +1,101 @@
+{
+	"musicList" : [
+		{
+			"track" : "Crazy",
+			"artist" : "Frizzy The Streetz, Simbai",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/989/crazy-1628499636-F933qiPFG2.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/989/325x325/crazy-1628499632-VOIryHX8Vp.jpg"
+		},
+
+		{
+			"track" : "On",
+			"artist" : "Alisky",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/988/on-1628236834-VhfCgH80f1.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/988/325x325/on-1628236830-thIoL6gSQZ.jpg"
+		},
+
+		{
+			"track" : "Done",
+			"artist" : "Halvorsen, Clarx",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/987/done-1628164834-3ITLd7Ittj.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/987/325x325/done-1628164832-GKubJ2Y0tb.jpg"
+		},
+
+		{
+			"track" : "Talk To Me",
+			"artist" : "Siberian Express",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/986/talk-to-me-1627992035-Nr4yE0kuHD.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/986/325x325/talk-to-me-1627992032-IUQsxhmJRq.jpg"
+		},
+
+		{
+			"track" : "Run & Hide",
+			"artist" : "Shiah Maisel, Zeus X Crona",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/985/run-hide-1627650036-OcV78sQM47.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/985/325x325/run-hide-1627650033-y0torEshi4.jpg"
+		},
+
+		{
+			"track" : "Royalty (Wiguez & Alltair Remix)",
+			"artist" : "Alltair, Wiguez, Maestro Chives, Egzod",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/984/royalty-wiguez-alltair-remix-1627556433-BEeu4EgI0T.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/984/325x325/royalty-wiguez-alltair-remix-1627556430-m5ZJttGjDI.jpg"
+		},
+
+		{
+			"track" : "Here For Me (feat. m els)",
+			"artist" : "m els, Siimi",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/982/here-for-me-feat-m-els-1627390835-NdooeyvnRM.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/982/325x325/here-for-me-feat-m-els-1627390831-oHiIU84Q8G.jpg"
+		},
+
+		{
+			"track" : "Pretty woman",
+			"artist" : "The Saint, Magnus",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/980/pretty-woman-1626966034-yKhYHWUCBK.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/980/325x325/pretty-woman-1626966031-PyeMCnwIUh.png"
+		},
+
+		{
+			"track" : "Like This",
+			"artist" : "Magnus",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/981/like-this-1626966041-hUr3Wzol0y.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/981/325x325/like-this-1626966038-XqdJpWdlhk.png"
+		},
+
+		{
+			"track" : "How To Love",
+			"artist" : "Highlnd, Rachel Lorin",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/979/how-to-love-1626782433-0wh3281IzZ.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/979/325x325/how-to-love-1626782429-axYFgOliEn.jpg"
+		},
+
+		{
+			"track" : "Throne (Lost Identities Remix)",
+			"artist" : "Lost Identites, Rival",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/978/throne-lost-identities-remix-1626440435-Ptftvq3VPE.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/978/325x325/throne-lost-identities-remix-1626440432-uuKxda3Brb.jpg"
+		},
+
+		{
+			"track" : "Bring Me The Light",
+			"artist" : "Mara Necia, T & Sugah",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/977/bring-me-the-light-1626343234-EKGZQcW4U2.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/977/325x325/bring-me-the-light-1626343231-bEnFjASbN5.jpg"
+		},
+
+		{
+			"track" : "Shimmer",
+			"artist" : "THYKIER",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/974/shimmer-1626181237-NnYkyEklWB.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/974/325x325/shimmer-1626181232-4QxEuu8j0P.jpg"
+		},
+
+		{
+			"track" : "Like This",
+			"artist" : "Magnus",
+			"streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/973/like-this-1625828434-f8juDYkBsh.mp3",
+			"coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/973/325x325/like-this-1625828429-A8ElGmWROT.jpg"
+		}
+	]
+}
